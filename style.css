@@ -1,0 +1,206 @@
+/* Global Styles */
+body {
+    font-family: 'Poppins', sans-serif;
+    background-color: #1a0b1d; /* Dark Purple Background */
+    color: #f5e6f7; /* Soft White Text */
+    padding-top: 70px;
+    scroll-behavior: smooth;
+}
+
+/* Navbar */
+.navbar {
+    background-color: rgba(26, 11, 29, 0.95); /* Semi-transparent dark */
+    box-shadow: 0px 4px 10px rgba(255, 20, 147, 0.3); /* Pink Glow */
+}
+
+.navbar-nav .nav-link {
+    color: #ff79c6 !important; /* Neon Pink */
+    font-weight: 500;
+    transition: color 0.3s ease-in-out;
+}
+
+.navbar-nav .nav-link:hover {
+    color: #bd93f9 !important; /* Light Purple */
+}
+
+/* Profile Section */
+#home {
+    background: linear-gradient(135deg, #2a042a, #3b1040); /* Dark Pink & Purple Gradient */
+    padding: 80px 0;
+    text-align: center;
+}
+
+.profile-pic {
+    max-width: 180px;
+    border: 5px solid #ff79c6; /* Pink Outline */
+    transition: transform 0.3s ease-in-out, box-shadow 0.3s ease-in-out;
+}
+
+.profile-pic:hover {
+    transform: scale(1.1);
+    box-shadow: 0px 0px 15px #ff79c6;
+}
+
+.title {
+    font-size: 2.5rem;
+    font-weight: bold;
+    color: #ff79c6; /* Pink */
+}
+
+.subtitle {
+    font-size: 1.2rem;
+    color: #bd93f9; /* Soft Purple */
+}
+
+/* Section Titles */
+h2 {
+    color: #ff79c6;
+    border-bottom: 2px solid #ff79c6;
+    display: inline-block;
+    padding-bottom: 5px;
+    margin-bottom: 20px;
+}
+
+/* Sections */
+section {
+    padding: 60px 0;
+}
+
+/* About Section */
+#about {
+    text-align: center;
+}
+
+/* Section */
+#education {
+    text-align: center;
+    padding: 40px;
+    background: linear-gradient(135deg, #2a042a, #3b1040);
+    border-radius: 10px;
+}
+
+/* Section Title */
+h2 {
+    color: #ff79c6;
+    border-bottom: 2px solid #ff79c6;
+    display: inline-block;
+    padding-bottom: 5px;
+    margin-bottom: 20px;
+    font-size: 2rem;
+}
+
+/* Education Grid */
+.education-grid {
+    display: grid;
+    grid-template-columns: 1fr; /* Single column */
+    gap: 20px;
+    max-width: 500px;
+    margin: 0 auto;
+}
+
+/* Education Item */
+.education-item {
+    background-color: #240e26;
+    padding: 20px;
+    border-radius: 10px;
+    border: 2px solid #bd93f9; /* Light Purple Border */
+    text-align: left;
+}
+
+/* Text Styling */
+.education-item h3 {
+    color: #ff79c6;
+    margin-bottom: 5px;
+    font-size: 1.5rem;
+}
+
+.education-item p {
+    color: #bd93f9;
+    font-size: 1.1rem;
+    margin: 5px 0;
+}
+
+/* Year Styling */
+.year {
+    display: block;
+    color: #f5e6f7;
+    font-size: 1rem;
+    font-weight: bold;
+    margin-top: 5px;
+}
+
+/* Experience Section */
+#experience {
+    text-align: center;
+    background: linear-gradient(135deg, #2a042a, #3b1040);
+    padding: 50px 0;
+}
+
+#experience .neon-text {
+    color: #ff79c6;
+    text-shadow: 0px 0px 10px #ff79c6;
+    font-weight: bold;
+}
+
+/* Project Cards */
+.card {
+    background-color: #240e26;
+    color: #f5e6f7;
+    border-radius: 12px;
+    box-shadow: 0px 5px 15px rgba(255, 20, 147, 0.3);
+    transition: transform 0.3s ease-in-out, box-shadow 0.3s ease-in-out;
+}
+
+.card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0px 10px 25px rgba(189, 147, 249, 0.3); /* Light Purple Glow */
+}
+
+.card-title {
+    color: #ff79c6;
+}
+
+.card-text {
+    color: #bd93f9;
+}
+
+/* Buttons */
+.btn-outline-primary {
+    border-color: #ff79c6;
+    color: #ff79c6;
+    transition: all 0.3s ease-in-out;
+}
+
+.btn-outline-primary:hover {
+    background-color: #ff79c6;
+    color: #1a0b1d;
+}
+
+/* Contact Section */
+#contact {
+    text-align: center;
+    background: linear-gradient(135deg, #2a042a, #3b1040);
+    padding: 50px 0;
+}
+
+#contact a {
+    color: #ff79c6;
+    font-weight: bold;
+}
+
+#contact a:hover {
+    color: #bd93f9;
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+    .profile-pic {
+        max-width: 140px;
+    }
+    .title {
+        font-size: 2rem;
+    }
+    .subtitle {
+        font-size: 1rem;
+    }
+}
