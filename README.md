@@ -22,7 +22,7 @@ Click on a section to view its screenshot:
 ## Features
 ✅ **Bootstramp Implementation**  
 ✅ **Neon Pink-Purple Theme**  
-✅ ** Grid Layout**  
+✅ **Grid Layout**  
 ✅ **Neon Borders for Styling**  
 ✅ **Transitions and Animation**  
 
