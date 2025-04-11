@@ -30,7 +30,7 @@ Click on a section to view its screenshot:
 
 ##  Live Demo
 
-🔗 **[View Portfolio on GitHub Pages](https://i-a-coder.github.io/portfolio-2025/)**  
+🔗 **[View Portfolio on GitHub Pages](https://drive.google.com/file/d/1bn_KNeoDPmd0b_3aGx83-OdCTC5ppH2g/view?usp=gmail)**  
 
 
 ---
