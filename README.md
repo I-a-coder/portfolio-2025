@@ -8,7 +8,7 @@ This is my **Personal Portfolio Website**, showcasing my education, skills, proj
 
 Click on a section to view its screenshot:
 
-- [About Section](https://raw.githubusercontent.com/I-a-coder/portfolio/main/assets/about-section.png)
+- [About Section](https://github.com/I-a-coder/portfolio-2025/blob/main/assets/images/about-section.png?raw=true)
 - [Home Section](https://raw.githubusercontent.com/I-a-coder/portfolio/main/assets/home-section.png)
 - [Education Section](https://raw.githubusercontent.com/I-a-coder/portfolio/main/assets/education-section.png)
 - [Experience Section](https://raw.githubusercontent.com/I-a-coder/portfolio/main/assets/experience-section.png)
