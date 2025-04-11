@@ -7,15 +7,14 @@ This is my **Personal Portfolio Website**, showcasing my education, skills, proj
 ## Screenshots
 
 Click on a section to view its screenshot:
-
 - [About Section](https://github.com/I-a-coder/portfolio-2025/blob/main/assets/images/about-section.png?raw=true)
-- [Home Section](https://raw.githubusercontent.com/I-a-coder/portfolio/main/assets/home-section.png)
-- [Education Section](https://raw.githubusercontent.com/I-a-coder/portfolio/main/assets/education-section.png)
-- [Experience Section](https://raw.githubusercontent.com/I-a-coder/portfolio/main/assets/experience-section.png)
-- [Projects Section](https://raw.githubusercontent.com/I-a-coder/portfolio/main/assets/projects-section.png)
-- [Leadership Section](https://raw.githubusercontent.com/I-a-coder/portfolio/main/assets/leadership-section.png)
-- [Skills Section](https://raw.githubusercontent.com/I-a-coder/portfolio/main/assets/skill-section.png)
-- [Contact Section](https://raw.githubusercontent.com/I-a-coder/portfolio/main/assets/contact-section.png)
+- [Home Section](https://github.com/I-a-coder/portfolio-2025/blob/main/assets/images/home-section.png?raw=true)
+- [Education Section](https://github.com/I-a-coder/portfolio-2025/blob/main/assets/images/education-section.png?raw=true)
+- [Experience Section](https://github.com/I-a-coder/portfolio-2025/blob/main/assets/images/experience-section.png?raw=true)
+- [Projects Section](https://github.com/I-a-coder/portfolio-2025/blob/main/assets/images/projects-section.png?raw=true)
+- [Leadership Section](https://github.com/I-a-coder/portfolio-2025/blob/main/assets/images/leadership-section.png?raw=true)
+- [Skills Section](https://github.com/I-a-coder/portfolio-2025/blob/main/assets/images/skill-section.png?raw=true)
+- [Contact Section](https://github.com/I-a-coder/portfolio-2025/blob/main/assets/images/contact-section.png?raw=true)
 
 ---
 
