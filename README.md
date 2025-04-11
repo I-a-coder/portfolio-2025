@@ -8,19 +8,20 @@ This is my **Personal Portfolio Website**, showcasing my education, skills, proj
 
 Click on a section to view its screenshot:
 
-- [ About Section](https://github.com/user-attachments/assets/785cdf36-d6fa-42f7-8d2d-de2cbbc8711a)
-- [ Home Section](https://github.com/user-attachments/assets/47bf49fa-8d4d-4775-a3ae-884243ddeacf)
-- [ Education Section](https://github.com/user-attachments/assets/203d2e50-2299-44e0-96df-8db1d8004df2)
-- [ Experience Section](https://github.com/user-attachments/assets/26f04703-a246-4813-a645-5394cd3dd2ba)
-- [ Projects Section](https://github.com/user-attachments/assets/1cf98c75-693e-40a6-a347-e40c8465722e)
-- [ Leadership Section](https://github.com/user-attachments/assets/70977efd-27c1-430b-b80e-aeefa9e72550)
-- [ Skills Section](https://github.com/user-attachments/assets/cfd6614b-ff58-4eda-b765-11f51b2d64c5)
-- [Contact Section](https://github.com/user-attachments/assets/5533f018-cde3-4fbc-8c09-c5f85fc76076)
+- [About Section](https://raw.githubusercontent.com/zain-ai/portfolio/main/assets/about.png)
+- [Home Section](https://raw.githubusercontent.com/zain-ai/portfolio/main/assets/home.png)
+- [Education Section](https://raw.githubusercontent.com/zain-ai/portfolio/main/assets/education.png)
+- [Experience Section](https://raw.githubusercontent.com/zain-ai/portfolio/main/assets/experience.png)
+- [Projects Section](https://raw.githubusercontent.com/zain-ai/portfolio/main/assets/projects.png)
+- [Leadership Section](https://raw.githubusercontent.com/zain-ai/portfolio/main/assets/leadership.png)
+- [Skills Section](https://raw.githubusercontent.com/zain-ai/portfolio/main/assets/skills.png)
+- [Contact Section](https://raw.githubusercontent.com/zain-ai/portfolio/main/assets/contact.png)
 
 ---
 
 ## Features
-✅ **Bootstramp Implementation**  
+
+✅ **Bootstrap Implementation**  
 ✅ **Neon Pink-Purple Theme**  
 ✅ **Grid Layout**  
 ✅ **Neon Borders for Styling**  
@@ -28,14 +29,13 @@ Click on a section to view its screenshot:
 
 ---
 
-##  Live Demo
+## Live Demo
 
 🔗 **[View Portfolio on GitHub Pages](https://drive.google.com/file/d/1bn_KNeoDPmd0b_3aGx83-OdCTC5ppH2g/view?usp=gmail)**  
 
-
 ---
 
-##  Technologies Used
+## Technologies Used
 
 - **HTML5**
 - **CSS3**
@@ -43,4 +43,3 @@ Click on a section to view its screenshot:
 - **GitHub Pages (for hosting)**
 
 ---
-
