@@ -8,14 +8,14 @@ This is my **Personal Portfolio Website**, showcasing my education, skills, proj
 
 Click on a section to view its screenshot:
 
-- [About Section](https://raw.githubusercontent.com/zain-ai/portfolio/main/assets/about.png)
-- [Home Section](https://raw.githubusercontent.com/zain-ai/portfolio/main/assets/home.png)
-- [Education Section](https://raw.githubusercontent.com/zain-ai/portfolio/main/assets/education.png)
-- [Experience Section](https://raw.githubusercontent.com/zain-ai/portfolio/main/assets/experience.png)
-- [Projects Section](https://raw.githubusercontent.com/zain-ai/portfolio/main/assets/projects.png)
-- [Leadership Section](https://raw.githubusercontent.com/zain-ai/portfolio/main/assets/leadership.png)
-- [Skills Section](https://raw.githubusercontent.com/zain-ai/portfolio/main/assets/skills.png)
-- [Contact Section](https://raw.githubusercontent.com/zain-ai/portfolio/main/assets/contact.png)
+- [About Section](https://raw.githubusercontent.com/I-a-coder/portfolio/main/assets/about-section.png)
+- [Home Section](https://raw.githubusercontent.com/I-a-coder/portfolio/main/assets/home-section.png)
+- [Education Section](https://raw.githubusercontent.com/I-a-coder/portfolio/main/assets/education-section.png)
+- [Experience Section](https://raw.githubusercontent.com/I-a-coder/portfolio/main/assets/experience-section.png)
+- [Projects Section](https://raw.githubusercontent.com/I-a-coder/portfolio/main/assets/projects-section.png)
+- [Leadership Section](https://raw.githubusercontent.com/I-a-coder/portfolio/main/assets/leadership-section.png)
+- [Skills Section](https://raw.githubusercontent.com/I-a-coder/portfolio/main/assets/skill-section.png)
+- [Contact Section](https://raw.githubusercontent.com/I-a-coder/portfolio/main/assets/contact-section.png)
 
 ---
 
@@ -41,5 +41,3 @@ Click on a section to view its screenshot:
 - **CSS3**
 - **Flexbox & Grid**
 - **GitHub Pages (for hosting)**
-
----
